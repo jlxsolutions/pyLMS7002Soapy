@@ -15,6 +15,11 @@ organization from evaluation board down to on-chip register level.
 
 SoapySDR interface is required for establishing an USB connection, and can be used
 for high level functions, such as reading samples.
+# Software requirements
+Numpy
+matplotlib
+pySmithplot 
+https://github.com/vMeijin/pySmithPlot
 
 ## Installation
 
