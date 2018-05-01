@@ -1,4 +1,4 @@
-# LMS7002M Python package
+# Fork of LMS7002M Python package To make convient changes to examples for myself
 
 The pyLMS7002Soapy Python package is platform-independent, and is intended for fast prototyping
 and algorithm development. It provides low level register access and high level convenience functions
